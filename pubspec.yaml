@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   tool_base: ^2.0.0
+    git: https://github.com/trygvis/tool_base
 
 dev_dependencies:
   mockito: ^5.0.16
