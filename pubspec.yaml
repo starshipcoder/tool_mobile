@@ -16,4 +16,4 @@ dev_dependencies:
 
 dependency_overrides:
   tool_base:
-    path: ../tool_base
+    git: https://github.com/trygvis/tool_base
